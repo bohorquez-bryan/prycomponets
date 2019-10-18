@@ -1,0 +1,166 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-voice] /Users/macminisistemas/Documents/SB/react-navigation/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-16:12
+MERGED from [com.facebook.react:react-native:0.57.4] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/05021cc4ee29c8d187d4dce088c16fae/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4601d7c501712affbb6aa4334292584c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/15d23c85a20adcf1b8cfc38376edc3ef/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/72eb03f09904e601e2d27aeec12ee7b9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/2694e11ad354b4e4fd0efd69bb74cb10/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/f568e907a965b0a5525e1be2bf1ea27a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/21c7a3cde3dde337b17b1d13759a8d93/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/9393423eec6a6327695258a6a7a961fb/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /private/var/root/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/34ea50db38fc24931d67a1b1fd554df9/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/0a6e111c93e88edafd8450bae3ac841f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-fragment:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7852491425878de44aa447d180de07d3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7194329bed1b0dda20a5c5d7964120d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/daa5c1b2817d5ba80b8724026a51b096/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8c7439936bc6ed27e45181727c6c37f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a6bae8ace49ce692d22d917e2204c41e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/836878c35713ea1ecab7b47dceacaae4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/5a9ded96d6bba54e4c7145302bbd7e5e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5f65f44cc3f90ad2b61f6b76bb39fde6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ab8bd9cea1a3f659d6022cb01b50bec3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/06e85758c2c76cc271b884868186474e/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:2:5-29
+		INJECTED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-voice] /Users/macminisistemas/Documents/SB/react-navigation/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-67
+MERGED from [:react-native-voice] /Users/macminisistemas/Documents/SB/react-navigation/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.4] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/05021cc4ee29c8d187d4dce088c16fae/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.4] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/05021cc4ee29c8d187d4dce088c16fae/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:6:5-70
+MERGED from [:react-native-voice] /Users/macminisistemas/Documents/SB/react-navigation/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-71
+MERGED from [:react-native-voice] /Users/macminisistemas/Documents/SB/react-navigation/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:6:22-68
+application
+ADDED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:8:5-25:19
+MERGED from [com.facebook.react:react-native:0.57.4] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/05021cc4ee29c8d187d4dce088c16fae/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.4] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/05021cc4ee29c8d187d4dce088c16fae/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/9393423eec6a6327695258a6a7a961fb/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/9393423eec6a6327695258a6a7a961fb/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /private/var/root/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/34ea50db38fc24931d67a1b1fd554df9/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /private/var/root/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/34ea50db38fc24931d67a1b1fd554df9/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:10:7-39
+	android:icon
+		ADDED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:11:7-41
+	android:allowBackup
+		ADDED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:13:7-38
+	android:name
+		ADDED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:9:7-38
+activity#com.navigation.MainActivity
+ADDED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:14:7-23:18
+	android:label
+		ADDED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:16:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:17:9-79
+	android:name
+		ADDED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-voice] /Users/macminisistemas/Documents/SB/react-navigation/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-11:54
+MERGED from [:react-native-voice] /Users/macminisistemas/Documents/SB/react-navigation/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-11:54
+MERGED from [com.facebook.react:react-native:0.57.4] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/05021cc4ee29c8d187d4dce088c16fae/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.4] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/05021cc4ee29c8d187d4dce088c16fae/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4601d7c501712affbb6aa4334292584c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4601d7c501712affbb6aa4334292584c/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/15d23c85a20adcf1b8cfc38376edc3ef/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/15d23c85a20adcf1b8cfc38376edc3ef/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/72eb03f09904e601e2d27aeec12ee7b9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/72eb03f09904e601e2d27aeec12ee7b9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/2694e11ad354b4e4fd0efd69bb74cb10/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/2694e11ad354b4e4fd0efd69bb74cb10/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/f568e907a965b0a5525e1be2bf1ea27a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/f568e907a965b0a5525e1be2bf1ea27a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/21c7a3cde3dde337b17b1d13759a8d93/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/21c7a3cde3dde337b17b1d13759a8d93/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/9393423eec6a6327695258a6a7a961fb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/9393423eec6a6327695258a6a7a961fb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/0a6e111c93e88edafd8450bae3ac841f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/0a6e111c93e88edafd8450bae3ac841f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7852491425878de44aa447d180de07d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7852491425878de44aa447d180de07d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7194329bed1b0dda20a5c5d7964120d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7194329bed1b0dda20a5c5d7964120d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/daa5c1b2817d5ba80b8724026a51b096/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/daa5c1b2817d5ba80b8724026a51b096/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8c7439936bc6ed27e45181727c6c37f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8c7439936bc6ed27e45181727c6c37f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a6bae8ace49ce692d22d917e2204c41e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a6bae8ace49ce692d22d917e2204c41e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/836878c35713ea1ecab7b47dceacaae4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/836878c35713ea1ecab7b47dceacaae4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/5a9ded96d6bba54e4c7145302bbd7e5e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/5a9ded96d6bba54e4c7145302bbd7e5e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5f65f44cc3f90ad2b61f6b76bb39fde6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5f65f44cc3f90ad2b61f6b76bb39fde6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ab8bd9cea1a3f659d6022cb01b50bec3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ab8bd9cea1a3f659d6022cb01b50bec3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/06e85758c2c76cc271b884868186474e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/06e85758c2c76cc271b884868186474e/AndroidManifest.xml:20:5-44
+INJECTED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:react-native-voice] /Users/macminisistemas/Documents/SB/react-navigation/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/macminisistemas/Documents/SB/react-navigation/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
